@@ -105,7 +105,9 @@ Vue                      3 repos             ███░░░░░░░░�
 HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
-
+---
+### 📺 Laravel Project =======================================================================================
+- [E-Commerce | Laravel](https://github.com/TawhidHassan/E-commerceLaravelXxl)
 ---
 
 <details>
@@ -120,9 +122,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 <img align="left" alt="SifatHassan github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TawhidHassan&show_icons=true&hide_border=true" />
 
----
-### 📺 Laravel Project =======================================================================================
-- [E-Commerce | Laravel](https://github.com/TawhidHassan/E-commerceLaravelXxl)
+
 
 
 
