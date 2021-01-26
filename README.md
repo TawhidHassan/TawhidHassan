@@ -52,7 +52,7 @@
 ---
 ### Top langs :tongue:
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TawhidHassan&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TawhidHassan&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 <br />
 <br />
 ### 📺 Latest worked project =======================================================================================
