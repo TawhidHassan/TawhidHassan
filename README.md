@@ -2,6 +2,8 @@
 
 [![Website](https://img.shields.io/badge/sifat.com-Stack%20dev-orange)](https://www.fiverr.com/sifat420?up_rollout=true)
 [![Website](https://img.shields.io/badge/Sifat%20Hassan-Facebook-blue)](https://www.facebook.com/profile.php?id=100014259702567)
+[![Website](https://komarev.com/ghpvc/?username=TawhidHassan&label=Profile+views&color=129e00&style=plastic)
+
 
 ## I'm a Family Person, Parents Big Son, Developer, and Teacher!
 
@@ -45,7 +47,9 @@
 
 <br />
 <br />
+<h4 align="center">Top langs :tongue:</h4>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TawhidHassan&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 ---
 
 ### 📺 Latest worked project =======================================================================================
@@ -77,7 +81,7 @@
 
   <img align="left" alt="SifatHassan github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TawhidHassan&show_icons=true&hide_border=true" />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TawhidHassan)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
