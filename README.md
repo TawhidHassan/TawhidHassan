@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a E-commerce  web site!
 - 🌱 I’m currently learning Ai and how to implement on android 
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other content creators   <p align="center"><img src="https://drive.google.com/file/d/1qrPjntTErmWpPunaySUW9xJDatB5aCjN/view?usp=sharing" alt="Synthwave" height="300" width="500"></p>
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to resarc new releases gadgets, App, Software
 - 💪 Main Aim: I want to create an project which run all platfrome(Meran,lamp,Android,flutter),in sort make full eco-       system
