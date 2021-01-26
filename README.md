@@ -8,7 +8,7 @@
 ## I'm a Family Person, Parents Big Son, Developer, and Teacher!
 
 - 🔭 I’m currently working on a E-commerce  web site!
-- 🌱 I’m currently learning Ai and how to implement on android 
+- 🌱 I’m currently learning Ai and how to implement on android <p align="center"><img src="https://raw.githubusercontent.com/TawhidHassan/TawhidHassan/master/image/gameingWallpaperSifat.png" alt="Sifat hassan" width="200px" height="200px"/></p>
 - 👯 I’m looking to collaborate with other content creators   
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to resarc new releases gadgets, App, Software
