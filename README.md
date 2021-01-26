@@ -1,3 +1,4 @@
+[![ProfileBanner](https://raw.githubusercontent.com/TawhidHassan/TawhidHassan/master/image/gameingWallpaperSifat.png)](https://github.com/TawhidHassan?tab=repositories)
 ### Hi there, I'm Sifat Hassan - 007 [Sifat007][website] 👋
 
 [![Website](https://img.shields.io/badge/sifat.com-Stack%20dev-orange)](https://www.fiverr.com/sifat420?up_rollout=true)
@@ -8,7 +9,7 @@
 ## I'm a Family Person, Parents Big Son, Developer, and Teacher!
 
 - 🔭 I’m currently working on a E-commerce  web site!
-- 🌱 I’m currently learning Ai and how to implement on android <p align="center"><img src="https://raw.githubusercontent.com/TawhidHassan/TawhidHassan/master/image/gameingWallpaperSifat.png" alt="Sifat hassan" width="200px" height="200px"/></p>
+- 🌱 I’m currently learning Ai and how to implement on android 
 - 👯 I’m looking to collaborate with other content creators   
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to resarc new releases gadgets, App, Software
