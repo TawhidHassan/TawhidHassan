@@ -160,9 +160,15 @@ HTML                     90 repos             ██░░░░░░░░░�
 
 
 
-[website]: https://tawhidhassan.github.io/#/
+
+
+[website]: http://sifatprofile.epizy.com/
 [twitter]: https://twitter.com/sifat83214944
 [youtube]: https://www.youtube.com/channel/UCJ7E07r3ZgvYJqWuwSL7jOg?view_as=subscriber
 [instagram]: https://www.instagram.com/sifat00007/
-[linkedin]: https://www.linkedin.com/in/sifat-hassan-40093320a/
+[linkedin]:https://github.com/TawhidHassan
+[webdevplaylist]: https://github.com/TawhidHassan
+[jsplaylist]: https://github.com/TawhidHassan
+[cssplaylist]: https://github.com/TawhidHassan
+[reactplaylist]: https://github.com/TawhidHassan
 
