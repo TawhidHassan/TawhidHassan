@@ -18,7 +18,8 @@
                                               node.js(2,year)
                                               react(2,year)
                                               vue(2,year)
-                                              flutter(2,year)
+                                              flutter(3+,year)
+                                              Dart(mid-high level)
                                               kotlin(intermediate)
                                               
                                           }
