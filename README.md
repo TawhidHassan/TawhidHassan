@@ -125,12 +125,12 @@ Windows                  29 hrs 40 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-Dart                     8 repos             █████████████████████░░░░   89.77% 
-JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
+Dart                     80 repos             █████████████████████░░░░   89.77% 
+JavaScript               30 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
 Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Vue                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+Java                     32 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Vue                      10 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
+HTML                     90 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
 ---
@@ -160,12 +160,9 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
-[website]: http://sifatprofile.epizy.com/
+[website]: https://tawhidhassan.github.io/#/
 [twitter]: https://twitter.com/sifat83214944
 [youtube]: https://www.youtube.com/channel/UCJ7E07r3ZgvYJqWuwSL7jOg?view_as=subscriber
 [instagram]: https://www.instagram.com/sifat00007/
-[linkedin]:https://github.com/TawhidHassan
-[webdevplaylist]: https://github.com/TawhidHassan
-[jsplaylist]: https://github.com/TawhidHassan
-[cssplaylist]: https://github.com/TawhidHassan
-[reactplaylist]: https://github.com/TawhidHassan
+[linkedin]: https://www.linkedin.com/in/sifat-hassan-40093320a/
+
